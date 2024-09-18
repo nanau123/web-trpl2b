@@ -1,0 +1,38 @@
+*{
+    box-sizing:border-box;
+}
+body{
+    font-family: "Kanit", sans-serif;
+}
+
+.header{
+    background-color:#85603F;
+    color:#f8f8f6;
+    text-align: center;
+    padding: 30px;
+}
+.sidebar{
+    background-color:#CBAF87;
+    color:#141414;
+    text-align:left;
+    width: 30%;
+    height: 400px;
+    float: left;
+    padding-left: 20px;
+}
+.content{
+    background-color:#f3f3f3;
+    color:#000000;
+    text-align: left;
+    width: 70%;
+    height: 400px;
+    float: right;
+    padding-left: 20px;
+}
+.footer{
+    background-color:#85603F;
+    color:#f8f8f6;
+    text-align: center;
+    padding: 10px;
+    clear: both;
+}
